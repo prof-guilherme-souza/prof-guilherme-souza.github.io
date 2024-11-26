@@ -7,8 +7,13 @@ div {
     margin-right: 20px;
 }
 
+header {
+    background: rgb(52, 22, 107);
+    color: white;
+}
+
 section {
-    background: rgb(184, 156, 213);
+    background: rgb(22, 35, 107);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
@@ -24,6 +29,7 @@ img {
 }
 
 .categoria-videos {
+    background: rgb(61, 112, 166);
     display: flex;
     overflow-x: auto;
     gap: 10px;
