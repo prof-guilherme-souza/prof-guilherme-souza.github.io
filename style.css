@@ -8,14 +8,15 @@ div {
 }
 
 header {
-    background: rgb(52, 22, 107);
+    background: rgb(38, 8, 94);
     color: white;
+    padding: 10px;
+    text-align: center;
 }
 
 section {
     background: rgb(22, 35, 107);
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 40px 20px;
     display: flex;
     justify-content: center;
 }
@@ -33,4 +34,5 @@ img {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+    padding: 40px 20px;
 }
